@@ -7,4 +7,5 @@ Created a mulitiple linear regression Machine learning model which takes
 * Number of children
 * Region
 * Smoke or not
+
 as inputs and predicts the medical charges.
